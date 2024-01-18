@@ -89,5 +89,5 @@ forge coverage --report debug
 ## Roles
 
 - Owner: The user who can set the password and read the password.
-- Outsides: No one else should be able to set or read the password.
+- Outsiders: No one else should be able to set or read the password.
 
