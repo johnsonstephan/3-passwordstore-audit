@@ -78,7 +78,7 @@ https://github.com/Cyfrin/3-passwordstore-audit
 # Roles
 
 - Owner: The user who can set the password and read the password.
-- Outsides: No one else should be able to set or read the password.
+- Outsiders: No one else should be able to set or read the password.
 
 # Known Issues
 
